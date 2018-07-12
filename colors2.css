@@ -1,0 +1,15 @@
+p{
+    color:#FFFFFF;
+    font-family:"Arial";
+}
+
+.header{
+    margin-bottom:20px;
+    padding:0px;
+    color:#FFF;
+    background-color:#900;
+}
+
+body{
+    background: url(https://i.pinimg.com/originals/5c/7d/8a/5c7d8adf3807470849ef2f7a33924a59.jpg);
+}

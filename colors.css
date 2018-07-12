@@ -1,0 +1,51 @@
+
+
+
+
+p{
+    color:#FFFFFF;
+    font-family:"Arial";
+}
+
+
+span0 {
+    background-color:#999;
+     padding:8px;
+}
+
+.header {
+    margin-bottom:20px;
+    padding:0px;
+    color:#FFF;
+    background-color:#900;
+}
+
+
+
+span{
+    color:#0C00FF;
+    background-color:#FFFB00; 
+}
+
+
+span22{
+    background-color:#788;
+}
+
+img{
+    height:250px;
+    width:1200px;
+    margin-left:auto;
+    display:block;
+    margin-right:auto;
+    
+    /*position:absolute;*/
+    /*clip:rect(100,10px,100px,100px);*/
+}
+
+
+
+.completed-todo{
+    text-decoration:line-through;
+}
+
